@@ -2,7 +2,8 @@
 
 
 --[[
-	Scripting and implementation by Kallankari.
+	Porter Stemmer Algorithm invented by Martin F. Porter.
+	Scripting and implementation into Lua by Kallankari.
 
 	Scripted according to the documentation in the 1980 tartarus paper
 	also taking into account later modernized rule revisions.
